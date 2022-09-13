@@ -101,6 +101,10 @@ https://www.facebook.com/NestlePureLifeEg/
 بركة Baraka
 
  https://www.facebook.com/BarakaWater/
+ 
+ تواصل للشركة بركة 
+ خدمة عملاء
+ 19800
 
 
 تابعة للشركة نستله
