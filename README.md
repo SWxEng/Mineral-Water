@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/55116927/189504927-e411a43d-1f45-4b9c-a184-3d34bec06d45.jpg"  width="300" height="300" /> <img src="https://user-images.githubusercontent.com/55116927/189505087-2c5a987d-1d5d-43d8-b16a-86258e3037a1.jpg"  width="300" height="300" />
  
-هدف هنا جمع معلومات من شركات مصر فى مكان واحد
+هدف هنا جمع معلومات من شركات مياه بمصر فى مكان واحد
  
- فهرس شركات
+ فهرس قائمة شركات مياه
  
  نستله بيورلايف Nestlé Pure Life -  بركة Baraka - سان بنديتو - صافي - فلو - أكوافينا - اكوا دلتا  - إيلانو - حياة
  
