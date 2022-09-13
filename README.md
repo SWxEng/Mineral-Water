@@ -8,7 +8,7 @@
  
  فهرس شركات
  
- نستله بيورلايف / Nestlé Pure Life -  بركة Baraka - سان بنديتو - صافي - فلو - أكوافينا - اكوا دلتا  - إيلانو - حياة
+ نستله بيورلايف Nestlé Pure Life -  بركة Baraka - سان بنديتو - صافي - فلو - أكوافينا - اكوا دلتا  - إيلانو - حياة
  
  -----------------------------------------------------------
  
@@ -56,7 +56,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/55116927/189762679-9e4c7d4a-84a2-4767-ba9c-3530c89a2dc0.png"  width="1000" height="500" />
  
  
-نستله بيورلايف / Nestlé Pure Life
+نستله بيورلايف Nestlé Pure Life
 
 
 https://www.nestlepurelife.com/eg/ar-eg
