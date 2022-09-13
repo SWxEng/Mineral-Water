@@ -86,7 +86,9 @@ https://www.facebook.com/NestlePureLifeEg/
 
 كالسيوم 16.8 Calcium / مغنيسيوم 4.92 Magnesium / صوديوم 17 Sodium / بوتاسيوم 1.2 Potassium
  
-بيكربونات 80.5 Bicarbonates / كبريتات 16 Sulphates / كلوريدات 10.5 Chlorides / سيليكات 9 Silicate / أملاح ذائبة T.D.S 124
+بيكربونات 80.5 Bicarbonates / كبريتات 16 Sulphates / كلوريدات 10.5 Chlorides / سيليكات 9 Silicate 
+
+أملاح ذائبة T.D.S 124
 
 
 ---------------------------------------------------------------------
@@ -100,7 +102,9 @@ https://www.facebook.com/NestlePureLifeEg/
 
 كالسيوم 22.4 Calcium / مغنيسيوم 7.68 Magnesium / صوديوم 25 Sodium / بوتاسيوم 1.7 Potassium 
  
-بيكربونات 117.2 Bicarbonates / كبريتات 25.7 Sulphates / كلوريدات 13.9 Chlorides / سيليكات 10 Silicate / أملاح ذائبة T.D.S 176
+بيكربونات 117.2 Bicarbonates / كبريتات 25.7 Sulphates / كلوريدات 13.9 Chlorides / سيليكات 10 Silicate 
+
+أملاح ذائبة T.D.S 176
  
  ---------------------------------------------------------------------
 
