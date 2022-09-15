@@ -148,9 +148,16 @@ https://www.facebook.com/NestlePureLifeEg/
  مياه بركة فيها معادن متوازنة لطعم طبيعي 
  وقدمت أكثر من 15 مليار كوب لمصريين على مدار أكثر من 40 عام
  
-المكونات ( ملليجرام / لتر ) 
+ 
 
+
+ 
+ <p align="center"><img src="https://user-images.githubusercontent.com/55116927/190294722-563aeae0-400d-4205-a9e6-7a5d8851add1.jpg"  width="300" height="300" />
+
+ 
 حجم زجاجة لتر 0.60L
+ 
+المكونات ( ملليجرام / لتر ) 
 
 كالسيوم 22.4 Calcium / مغنيسيوم 7.68 Magnesium / صوديوم 25 Sodium / بوتاسيوم 1.7 Potassium 
  
