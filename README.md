@@ -103,10 +103,13 @@ https://www.facebook.com/NestlePureLifeEg/
 قليل الصوديوم
  
 مصدر مياه : بئر جوفى عميق - كفر الأربعين - مزكر بنها - القليوبية / إنتاج مصر 
- 
-المكونات ( ملليجرام mg / لتر L ) 
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/55116927/190293873-f68936e7-7fdc-405c-b6b6-f8938ead4a21.jpg"  width="300" height="300" />
 
 حجم زجاجة لتر 0.60L
+
+المكونات ( ملليجرام mg / لتر L ) 
 
 كالسيوم 16.8 Calcium / مغنيسيوم 4.92 Magnesium / صوديوم 17 Sodium / بوتاسيوم 1.2 Potassium
  
