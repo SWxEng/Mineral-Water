@@ -7,7 +7,7 @@
  
  فهرس قائمة شركات مياه
  
-نستله بيورلايف Nestlé Pure Life  وتابعة بركة Baraka
+نستله بيورلايف Nestlé Pure Life  تابعة بركة Baraka
 
 
 دسانى
