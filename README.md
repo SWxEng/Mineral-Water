@@ -148,11 +148,8 @@ https://www.facebook.com/NestlePureLifeEg/
  مياه بركة فيها معادن متوازنة لطعم طبيعي 
  وقدمت أكثر من 15 مليار كوب لمصريين على مدار أكثر من 40 عام
  
- 
 
-
- 
- <p align="center"><img src="https://user-images.githubusercontent.com/55116927/190294722-563aeae0-400d-4205-a9e6-7a5d8851add1.jpg"  width="300" height="300" />
+ <p align="center"><img src="https://user-images.githubusercontent.com/55116927/190294971-ad97cd12-c313-43c4-a63b-3bbc1676c1d6.png"  width="300" height="300" />
 
  
 حجم زجاجة لتر 0.60L
